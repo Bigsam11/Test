@@ -1,4 +1,4 @@
-# FitnessTest
+# Rest Test
 An App that fetches and displays country data from an api, and also has swipe to delete support
 
 The app presents a list of countries from https://restcountries.eu/v2/all and allows the user to be ablt to swipe
